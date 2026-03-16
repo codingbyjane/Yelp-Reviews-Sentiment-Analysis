@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.project_env/
+venv/
+.env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
