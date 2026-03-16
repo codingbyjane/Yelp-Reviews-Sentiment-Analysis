@@ -11,8 +11,8 @@ venv/
 .ipynb_checkpoints/
 
 # Data files
-data/raw/           # raw JSON/CSV files are usually large
-data/processed/     # processed CSVs are generated, no need to track
+data/raw/           
+data/processed/     
 
 # VS Code
 .vscode/
