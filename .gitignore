@@ -10,8 +10,9 @@ venv/
 # Jupyter Notebook
 .ipynb_checkpoints/
 
-# Dataset
-data/
+# Data files
+data/raw/           # raw JSON/CSV files are usually large
+data/processed/     # processed CSVs are generated, no need to track
 
 # VS Code
 .vscode/
