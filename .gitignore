@@ -21,9 +21,8 @@ plots/
 *.jpg
 *.svg
 
-# LoRA checkpoints and logs
+# LoRA checkpoints
 lora_results/
-logs/
 
 # VS Code
 .vscode/
