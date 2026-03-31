@@ -12,7 +12,10 @@ venv/
 
 # Data files
 data/raw/           
-data/processed/     
+data/processed/    
+
+# Hugging Face Cache
+.cache/
 
 # Plots and figures
 plots/
