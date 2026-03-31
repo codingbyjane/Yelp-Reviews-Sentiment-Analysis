@@ -5,7 +5,7 @@ __pycache__/
 # Environments
 .project_env/
 venv/
-.env/
+.env.*
 
 # Jupyter Notebook
 .ipynb_checkpoints/
@@ -23,6 +23,10 @@ plots/
 
 # LoRA checkpoints
 lora_results/
+
+# Saved models
+lora_model/
+full_model/
 
 # VS Code
 .vscode/
